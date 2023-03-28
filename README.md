@@ -2,7 +2,7 @@
 
 Submitted by: **Samir Ansari**
 
-**Samir Ansari** is a health metrics app that allows users to track ... [TODO] 
+**Fit Bit** is a health metrics app that allows users to track day to day calorie intake 
 
 Time spent: **4.5** hours spent in total
 
